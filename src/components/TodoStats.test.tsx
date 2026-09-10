@@ -3,7 +3,7 @@ import TodoStats from "./TodoStats";
 
 describe("TodoStats", () => {
   it("Should print right amount of tasks", () => {
-    //Arrange
+   
     //Act
     render(
       <TodoStats

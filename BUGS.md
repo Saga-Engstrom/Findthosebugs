@@ -13,7 +13,7 @@ Buggarna pekar inte ut fil eller rad — det är en del av uppgiften att lokalis
 
 ### Bugg 1 — Fel antal i statistiken
 
-> "Räknaren längst ner i att-göra-listan visar fel antal när jag bockar av eller lägger till uppgifter. Den verkar visa tvärtom mot vad jag förväntar mig."
+>X "Räknaren längst ner i att-göra-listan visar fel antal när jag bockar av eller lägger till uppgifter. Den verkar visa tvärtom mot vad jag förväntar mig."
 
 ### Bugg 2 — Fel uppgift markeras som klar
 
